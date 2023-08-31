@@ -9,6 +9,6 @@ public class Pages {
 
         int age2 = Integer.parseInt(age);
 
-        System.out.println(age2 + " year olds should read at least " + (100-age2) + " pages in a book before giving up.");
+        System.out.println(age2 + "-year olds should read at least " + (100-age2) + " pages before giving up on a book.");
     }
 }
